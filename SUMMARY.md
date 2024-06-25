@@ -32,7 +32,7 @@
   - [BEX](/nativedapps/bex.md)
   - [Bend](/nativedapps/bend.md)
   - [Berps](/nativedapps/berps.md)
-  - [BGT station](/nativedapps/bgtstation.md)
+  - [BGT 一站式管理平台](/nativedapps/bgtstation.md)
   - [水龙头](/nativedapps/faucet.md)
   - [Honey Swap](/nativedapps/honeyswap.md)
   - [区块浏览器](/nativedapps/beratrail.md)
