@@ -25,7 +25,7 @@
 
 - [治理](/governance/README.md)
 
-  - [输出为静态网站](/governance/govoverview.md)
+  - [治理](/governance/govoverview.md)
 
 - [原生应用](/nativedapps/README.md)
 
