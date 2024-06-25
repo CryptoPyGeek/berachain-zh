@@ -39,5 +39,4 @@
 
 - [帮助](/help/README.md)
   - [常见问题](/help/FAQs.md)
-  - [故障排除](/help/Troubleshooting.md)
   - [名词解释](/help/glossary.md)
