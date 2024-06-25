@@ -1,2 +1,1 @@
-# Page
-
+# 本文是 berachain 核心文档中文版
