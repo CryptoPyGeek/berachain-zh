@@ -1,6 +1,6 @@
 BeaconKit 是一个模块化且可定制的以太坊区块链共识层。
 
-![beaconkit-banner](../assets/beaconkit-banner-main.png)
+![beaconkitbanner](../assets/beaconkit-banner-main.png)
 
 BeaconKit 引入了一个创新的框架，利用 Cosmos-SDK 创建一个灵活、可定制的共识层，专为以太坊区块链量身定制。该框架提供了构建和运行 EVM 区块链的最用户友好方式，同时确保与以太坊主网功能完全相同的执行环境。
 
@@ -16,7 +16,7 @@ BeaconKit 提供了一个模块化的构建块，通过 CometBFT 共识算法提
 
 ## Polaris 和 BeaconKit 的比较
 
-![polaris-vs-beaconkit](../assets/polaris-vs-beaconkit.png)
+![polarisVSbeaconkit](../assets/polaris-vs-beaconkit.png)
 
 # 支持的执行客户端
 

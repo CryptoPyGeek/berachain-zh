@@ -10,7 +10,7 @@ Berachain 基金会对该框架进行了多次迭代和重新设计，最终形�
 
 从 V1 到 V2 的主要变化：
 
-![v1-vs-v2](v1-vs-v2.png)
+![v1vsv2](../assets/v1-vs-v2.png)
 
 此表概述了 Berachain 从 V1 到 V2 的主要技术和经济变化。
 
