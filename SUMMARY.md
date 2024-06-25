@@ -5,7 +5,7 @@
   - [Berachain 是什么？](/introduction/berachain.md)
   - [流动性证明是什么？](/introduction/PoL.md)
   - [BeaconKit 是什么？](/introduction/BeaconKit.md)
-  - [连接到 Berachain？](/introduction/connection.md)
+  - [钱包如何连接到 Berachain？](/introduction/connection.md)
   - [如何获取$BERA?](/introduction/getBera.md)
 
 - [Berachain 测试网](/testnet/README.md)
