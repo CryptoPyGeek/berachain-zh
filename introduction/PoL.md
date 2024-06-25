@@ -21,7 +21,7 @@ Berachain 的流动性证明（Proof-of-Liquidity，PoL）是一种顶尖的区�
 
 流动性证明（Proof of Liquidity, PoL）扩展了权益证明（PoS）并解决了其缺点。让我们来看一下 PoL 的工作原理：
 
-![PoL工作说明](../assets/pol.png)
+![pol](../assets/pol.png)
 
 1. 潜在的验证者必须提供 $BERA 作为保证金，才能有资格生成区块，并在被选中提议区块时将 $BGT 的发行量引导到他们选择的池中。
 
